@@ -7,7 +7,7 @@ My work spans iOS development, backend engineering, and event-driven systems—w
 ### Selected work
 
 - **[Kistane Dictionary](https://github.com/tenth-package0/kistane-ios)** — Multilingual language-preservation app with 9,924 dictionary records on iOS
-- **Mezgeb** — Ethiopian calendar and date utilities built with SwiftUI
+- **[Mezgeb](https://github.com/tenth-package0/mezgeb)** — Ethiopian calendar and date utilities built with SwiftUI
 - **Levelling** — Gamified personal-growth app centered on goals and consistency
 - **Vetmate** — Pet-care platform combining iOS, computer vision, Supabase, and Cloudflare Workers
 - **Loop** — Event-driven Shopify marketing and upselling infrastructure
