@@ -11,7 +11,7 @@ My work spans iOS development, backend engineering, and event-driven systems wit
 - **[Mezgeb](https://github.com/tenth-package0/mezgeb)** Offline-first Flutter vault with local encryption and Ethiopian calendar organization
 - **Levelling** — Gamified personal-growth app centered on goals and consistency
 - **Vetmate** — Pet-care platform combining iOS, computer vision, Supabase, and Cloudflare Workers
-- **Loop** — Event-driven Shopify marketing and upselling infrastructure
+- **Loop**  Event-driven Shopify marketing and upselling infrastructure
 
 ### Currently exploring
 
