@@ -1,16 +1,17 @@
-## Hi there 👋
+# Kebron Tadesse
 
-<!--
-**tenth-package0/tenth-package0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at San Diego State University building thoughtful software from product idea to system design to production.
 
-Here are some ideas to get you started:
+My work spans iOS development, backend engineering, and event-driven systems—with an emphasis on useful products, reliable architecture, and software used by real people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- **Kistane Dictionary** — Multilingual language-preservation app with 10,000+ entries across iOS and Android
+- **Mezgeb** — Ethiopian calendar and date utilities built with SwiftUI
+- **Levelling** — Gamified personal-growth app centered on goals and consistency
+- **Vetmate** — Pet-care platform combining iOS, computer vision, Supabase, and Cloudflare Workers
+- **Loop** — Event-driven Shopify marketing and upselling infrastructure
+
+### Currently exploring
+
+Distributed systems, backend reliability, product engineering, and system design.
