@@ -13,6 +13,7 @@
 - **[Kistane Dictionary for iOS](https://github.com/tenth-package0/kistane-ios)** — Native SwiftUI language-preservation app with 9,924 trilingual dictionary records.
 - **[Kistane Dictionary for Flutter](https://github.com/tenth-package0/kistane-flutter)** — Cross-platform dictionary with multilingual search, favorites, quizzes, and cultural traditions.
 - **[Mezgeb](https://github.com/tenth-package0/mezgeb)** — Offline-first Flutter photo and file vault with local encryption and Ethiopian calendar organization.
+- **[Levelling](https://github.com/tenth-package0/levelling)** — My first SwiftUI project, an RPG-style character progression prototype.
 
 ## Engineering interests
 
