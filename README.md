@@ -1,18 +1,36 @@
-# Kebron Tadesse
+<div align="center">
+  <h1>Kebron Tadesse</h1>
+  <p><strong>Computer Science @ San Diego State University</strong></p>
+  <p>Product-minded engineer building production web, backend, and mobile systems.</p>
+  <p>
+    <a href="https://orbitmodels.dev">Live project</a>
+    ·
+    <a href="https://github.com/tenth-package0?tab=repositories">Repositories</a>
+  </p>
+</div>
 
-Computer Science student at San Diego State University building thoughtful software from product idea to system design to production.
+## Featured project — Orbit
 
-My work spans iOS development, backend engineering, and event-driven systems with an emphasis on useful products, reliable architecture, and software used by real people.
+<a href="https://orbitmodels.dev">
+  <img src="https://raw.githubusercontent.com/tenth-package0/orbit/main/docs/images/orbit-home.png" alt="Orbit multi-model AI interface" />
+</a>
 
-### Selected work
+**[Orbit](https://github.com/tenth-package0/orbit)** is a production multi-model AI interface for GPT, Claude, and Gemini. Its deterministic, benchmark-informed router classifies prompts into five task categories and selects a model with quality as the primary signal. Users can also hold a provider or stream all three responses side by side.
 
-- **[Kistane Dictionary for iOS](https://github.com/tenth-package0/kistane-ios)** Native SwiftUI language-preservation app with 9,924 trilingual dictionary records
-- **[Kistane Dictionary for Flutter](https://github.com/tenth-package0/kistane-flutter)** Cross-platform edition with multilingual search, favorites, quizzes, and cultural traditions
-- **[Mezgeb](https://github.com/tenth-package0/mezgeb)** Offline-first Flutter vault with local encryption and Ethiopian calendar organization
-- **Levelling** — Gamified personal-growth app centered on goals and consistency
-- **Vetmate** — Pet-care platform combining iOS, computer vision, Supabase, and Cloudflare Workers
-- **Loop**  Event-driven Shopify marketing and upselling infrastructure
+`Next.js` `TypeScript` `Cloudflare Workers` `Supabase` `PostgreSQL` `SSE` `RLS`
 
-### Currently exploring
+**[Try the live app →](https://orbitmodels.dev)** · **[Read the architecture →](https://github.com/tenth-package0/orbit#architecture)**
 
-Distributed systems, backend reliability, product engineering, and system design.
+## Selected work
+
+- **[Kistane Dictionary for iOS](https://github.com/tenth-package0/kistane-ios)** — Native SwiftUI language-preservation app with 9,924 trilingual dictionary records.
+- **[Kistane Dictionary for Flutter](https://github.com/tenth-package0/kistane-flutter)** — Cross-platform dictionary with multilingual search, favorites, quizzes, and cultural traditions.
+- **[Mezgeb](https://github.com/tenth-package0/mezgeb)** — Offline-first Flutter photo and file vault with local encryption and Ethiopian calendar organization.
+
+## Engineering interests
+
+Distributed systems, backend reliability, applied AI infrastructure, product engineering, and software that serves real communities.
+
+## Toolbox
+
+`TypeScript` `JavaScript` `Swift` `Dart` `SQL` `React` `Next.js` `SwiftUI` `Flutter` `Node.js` `Cloudflare Workers` `Supabase` `PostgreSQL`
