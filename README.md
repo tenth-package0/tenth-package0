@@ -2,7 +2,7 @@
 
 <br />
 
-I turn ambitious product ideas into reliable software—across **web, backend, AI, and mobile**. I care about the whole journey: understanding the problem, shaping the experience, designing the system, and shipping something people can trust.
+I turn ambitious product ideas into reliable software across **web, backend, AI, and mobile**. I care about the whole journey: understanding the problem, shaping the experience, designing the system, and shipping something people can trust.
 
 Currently studying **Computer Science at San Diego State University** and building production-minded products in San Diego.
 
