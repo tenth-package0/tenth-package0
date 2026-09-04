@@ -20,6 +20,7 @@ Currently studying **Computer Science at San Diego State University** and buildi
 | **[Kistane for iOS](https://github.com/tenth-package0/kistane-ios)** | Native language-preservation app with 9,924 trilingual dictionary records. | Swift · SwiftUI |
 | **[Kistane for Flutter](https://github.com/tenth-package0/kistane-flutter)** | Cross-platform dictionary with multilingual search, quizzes, favorites, and cultural traditions. | Dart · Flutter |
 | **[Mezgeb](https://github.com/tenth-package0/mezgeb)** | Offline-first photo and file vault with local encryption and Ethiopian calendar organization. | Flutter · Local-first architecture |
+| **[No-AI Lab](./no-ai)** | A transparent practice space where every logged project is planned, written, tested, and reviewed manually—without AI assistance. | Touched at least weekly |
 
 ## Open-source work
 
