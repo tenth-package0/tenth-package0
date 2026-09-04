@@ -21,6 +21,18 @@ Currently studying **Computer Science at San Diego State University** and buildi
 | **[Kistane for Flutter](https://github.com/tenth-package0/kistane-flutter)** | Cross-platform dictionary with multilingual search, quizzes, favorites, and cultural traditions. | Dart · Flutter |
 | **[Mezgeb](https://github.com/tenth-package0/mezgeb)** | Offline-first photo and file vault with local encryption and Ethiopian calendar organization. | Flutter · Local-first architecture |
 
+## Open-source work
+
+I build and maintain open-source software across **AI, mobile development, language preservation, and privacy-focused tools**.
+
+- **[Orbit](https://github.com/tenth-package0/orbit)** — Multi-model AI workspace supporting GPT, Claude, and Gemini.
+- **[Kistane for iOS](https://github.com/tenth-package0/kistane-ios)** — Native SwiftUI dictionary preserving 9,924 trilingual Kistanigna records.
+- **[Kistane for Flutter](https://github.com/tenth-package0/kistane-flutter)** — Cross-platform language-learning app with search, quizzes, favorites, and cultural resources.
+- **[Mezgeb](https://github.com/tenth-package0/mezgeb)** — Offline-first encrypted photo and file vault.
+- **[Levelling](https://github.com/tenth-package0/levelling)** — SwiftUI RPG-style progression experiment.
+
+> Building open-source software for AI, language preservation, privacy, and real-world communities.
+
 <div align="center"><img src="./assets/build-loop.svg" width="100%" alt="Idea to design to build to ship" /></div>
 
 ## Toolbox
