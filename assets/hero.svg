@@ -1,7 +1,21 @@
 <svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Kebron Tadesse — software engineer</title><desc id="desc">A minimal animated banner for Kebron Tadesse.</desc>
-  <defs><linearGradient id="background" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#0A1220"/><stop offset="1" stop-color="#111B2E"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7DD3FC"/><stop offset=".5" stop-color="#C4B5FD"/><stop offset="1" stop-color="#7DD3FC"/><animate attributeName="x1" values="-1;1" dur="8s" repeatCount="indefinite"/><animate attributeName="x2" values="0;2" dur="8s" repeatCount="indefinite"/></linearGradient><style>.mark{animation:breathe 4s ease-in-out infinite}@keyframes breathe{50%{opacity:.45}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
-  <rect width="1200" height="390" rx="24" fill="url(#background)"/><path d="M80 78H1120" stroke="#334155" stroke-opacity=".65"/><rect x="80" y="77" width="116" height="2" rx="1" fill="url(#accent)"/>
-  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,sans-serif"><text x="80" y="142" fill="#94A3B8" font-size="15" font-weight="650" letter-spacing="4">SOFTWARE ENGINEER · PRODUCT BUILDER</text><text x="80" y="226" fill="#F8FAFC" font-size="68" font-weight="750" letter-spacing="-2.5">Kebron Tadesse</text><text x="82" y="279" fill="#CBD5E1" font-size="23">Thoughtful software, from product idea to production.</text><text x="82" y="333" fill="#7DD3FC" font-size="15" font-weight="650" letter-spacing="1.2">SAN DIEGO</text><circle cx="210" cy="328" r="3.5" fill="#64748B"/><text x="229" y="333" fill="#C4B5FD" font-size="15" font-weight="650" letter-spacing="1.2">CS @ SDSU</text></g>
-  <g class="mark"><circle cx="1084" cy="326" r="21" stroke="#7DD3FC" stroke-opacity=".5"/><circle cx="1084" cy="326" r="4" fill="#7DD3FC"/></g>
+  <title id="title">Kebron Tadesse — software engineer</title>
+  <desc id="desc">A quiet, minimal banner with a slow traveling light.</desc>
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#101311"/><stop offset="1" stop-color="#171A17"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="150" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#AEB8AE" stop-opacity="0"/><stop offset=".5" stop-color="#E7E2D8" stop-opacity=".8"/><stop offset="1" stop-color="#AEB8AE" stop-opacity="0"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+    <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  </defs>
+  <rect width="1200" height="390" rx="24" fill="url(#ink)"/>
+  <path d="M78 78H1122" stroke="#343934"/>
+  <g class="motion" opacity=".72"><rect x="0" y="77" width="150" height="2" rx="1" fill="url(#sheen)"><animate attributeName="x" values="-150;1200" dur="11s" repeatCount="indefinite"/></rect><rect x="0" y="75" width="150" height="6" rx="3" fill="url(#sheen)" opacity=".16" filter="url(#soft)"><animate attributeName="x" values="-150;1200" dur="11s" repeatCount="indefinite"/></rect></g>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,sans-serif">
+    <text x="80" y="142" fill="#8F978F" font-size="15" font-weight="600" letter-spacing="4">SOFTWARE ENGINEER · PRODUCT BUILDER</text>
+    <text x="80" y="226" fill="#F0EDE6" font-size="68" font-weight="720" letter-spacing="-2.5">Kebron Tadesse</text>
+    <text x="82" y="279" fill="#B8BBB4" font-size="23">Thoughtful software, from product idea to production.</text>
+    <text x="82" y="333" fill="#9FAC9F" font-size="14" font-weight="600" letter-spacing="1.7">SAN DIEGO</text><circle cx="210" cy="328" r="2.8" fill="#666C66"/><text x="229" y="333" fill="#ACA69B" font-size="14" font-weight="600" letter-spacing="1.7">CS @ SDSU</text>
+  </g>
+  <g class="motion"><circle r="3" fill="#D8D3C9" opacity=".8"><animateMotion dur="14s" repeatCount="indefinite" path="M958 327 C1000 300 1042 300 1084 327 C1042 354 1000 354 958 327"/></circle></g>
+  <circle cx="1084" cy="327" r="24" stroke="#4B514B"/><circle cx="1084" cy="327" r="3" fill="#9FAC9F"/>
 </svg>
