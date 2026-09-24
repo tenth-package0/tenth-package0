@@ -22,7 +22,7 @@ Currently studying **Computer Science at San Diego State University** and buildi
 | **[Mezgeb](https://github.com/tenth-package0/mezgeb)** | Offline-first photo and file vault with local encryption and Ethiopian calendar organization. | Flutter · Local-first architecture |
 | **[No-AI Lab](./no-ai)** | A transparent practice space where every logged project is planned, written, tested, and reviewed manually without AI assistance. | Touched at least weekly |
 
-## Open-source work.  
+## Open-source work.    
 
 I build and maintain open-source software across **AI, mobile development, language preservation, and privacy-focused tools**.
 
