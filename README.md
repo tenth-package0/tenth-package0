@@ -1,6 +1,6 @@
 <div align="center"><img src="./assets/hero.svg" width="100%" alt="Kebron Tadesse — product-minded software engineer" /></div>
 
-<br />       
+<br />          
 
 I turn ambitious product ideas into reliable software across **web, backend, AI, and mobile**. I care about the whole journey: understanding the problem, shaping the experience, designing the system, and shipping something people can trust.
 
