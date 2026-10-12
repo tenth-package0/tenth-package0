@@ -1,7 +1,0 @@
-<svg width="1200" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">From idea to production</title><desc id="desc">A minimal product process with a slow traveling point.</desc>
-  <defs><linearGradient id="trail" x1="160" x2="1040"><stop stop-color="#7F8A80"/><stop offset="1" stop-color="#B2ABA0"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5"/></filter><style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style></defs>
-  <rect width="1200" height="130" rx="20" fill="#131613"/><path d="M160 65H1040" stroke="#3A3F3A"/>
-  <g class="motion"><circle r="8" fill="#D8D3C9" opacity=".12" filter="url(#glow)"><animateMotion dur="12s" repeatCount="indefinite" path="M160 65H1040"/></circle><circle r="3" fill="#D8D3C9" opacity=".75"><animateMotion dur="12s" repeatCount="indefinite" path="M160 65H1040"/></circle></g>
-  <g font-family="Inter,ui-sans-serif,system-ui" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.8"><circle cx="160" cy="65" r="4" fill="#7F8A80"/><text x="160" y="100" fill="#A9ADA7">IDEA</text><circle cx="453" cy="65" r="4" fill="#89938A"/><text x="453" y="100" fill="#A9ADA7">DESIGN</text><circle cx="746" cy="65" r="4" fill="#9A9A91"/><text x="746" y="100" fill="#A9ADA7">BUILD</text><circle cx="1040" cy="65" r="4" fill="#B2ABA0"/><text x="1040" y="100" fill="#A9ADA7">SHIP</text></g>
-</svg>

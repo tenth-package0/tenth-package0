@@ -1,51 +1,32 @@
-<div align="center"><img src="./assets/hero.svg" width="100%" alt="Kebron Tadesse — product-minded software engineer" /></div>
-
-<br />             
-       
-I turn ambitious product ideas into reliable software across **web, backend, AI, and mobile**. I care about the whole journey: understanding the problem, shaping the experience, designing the system, and shipping something people can trust.
-
-Currently studying **Computer Science at San Diego State University** and building production-minded products in San Diego.
-
 <div align="center">
-  <a href="https://orbitmodels.dev"><img src="https://img.shields.io/badge/EXPLORE_ORBIT-0B2040?style=for-the-badge" alt="Explore Orbit" /></a>
-  <a href="https://github.com/tenth-package0?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_WORK-20104D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View my repositories" /></a>
+  <img src="./assets/hero.svg" width="100%" alt="Kebron Tadesse — software engineer building reliable products" />
 </div>
 
-## What I'm building
+<div align="center">
+  <a href="https://tadessekebron.com"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kebron-tadesse/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tadessekebron@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-| Project | What it does | Built with |
+I build **reliable product systems** across backend, AI, web, and mobile. Computer Science student at **San Diego State University**, interested in distributed systems, developer infrastructure, and software that serves real communities.
+
+<img src="./assets/project-grid.svg" width="100%" alt="Featured projects: Sentinel, Orbit, Loop, and Kistane" />
+
+| Project | Engineering focus | Proof |
 |:--|:--|:--|
-| **[Orbit](https://github.com/tenth-package0/orbit)** · [Live ↗](https://orbitmodels.dev) | Benchmark-informed multi-model AI chat across GPT, Claude, and Gemini. | TypeScript · Next.js · AI APIs |
-| **Worthy** | Production-oriented hiring infrastructure for growing teams—from jobs and candidate pipelines to assessments and interviews. | Next.js · Supabase · PostgreSQL |
-| **[Kistane for iOS](https://github.com/tenth-package0/kistane-ios)** | Native language-preservation app with 9,924 trilingual dictionary records. | Swift · SwiftUI |
-| **[Kistane for Flutter](https://github.com/tenth-package0/kistane-flutter)** | Cross-platform dictionary with multilingual search, quizzes, favorites, and cultural traditions. | Dart · Flutter |
-| **[Mezgeb](https://github.com/tenth-package0/mezgeb)** | Offline-first photo and file vault with local encryption and Ethiopian calendar organization. | Flutter · Local-first architecture |
-| **[No-AI Lab](./no-ai)** | A transparent practice space where every logged project is planned, written, tested, and reviewed manually without AI assistance. | Touched at least weekly |
+| **[Sentinel](https://github.com/tenth-package0/sentinel)** | C++/Python risk engine, streaming events, deterministic replay | Live system demo + tested core |
+| **[Orbit](https://github.com/tenth-package0/orbit)** · **[Live](https://orbitmodels.dev)** | Concurrent LLM streaming with typed SSE events | GPT, Claude, and Gemini in one workspace |
+| **Loop** · **[Live](https://loopapplication.com)** | Idempotent Shopify workflows and async workers | 3,300+ automated tests |
+| **[Kistane](https://github.com/tenth-package0/kistane-ios)** | SwiftUI language-preservation app and typo-tolerant search | 9,924 trilingual records |
 
-## Open-source work.    
+### Currently
 
-I build and maintain open-source software across **AI, mobile development, language preservation, and privacy-focused tools**.
+- Contributing a correctness fix and regression coverage to **[Google DeepMind OpenSpiel](https://github.com/google-deepmind/open_spiel/pull/1640)**.
+- Building secure, observable systems where failure modes are explicit and testable.
+- Open to **2027 software engineering internships**.
 
-- **[Orbit](https://github.com/tenth-package0/orbit)** — Multi-model AI workspace supporting GPT, Claude, and Gemini.
-- **[Kistane for iOS](https://github.com/tenth-package0/kistane-ios)** — Native SwiftUI dictionary preserving 9,924 trilingual Kistanigna records.
-- **[Kistane for Flutter](https://github.com/tenth-package0/kistane-flutter)** — Cross-platform language-learning app with search, quizzes, favorites, and cultural resources.
-- **[Mezgeb](https://github.com/tenth-package0/mezgeb)** — Offline-first encrypted photo and file vault.
-- **[Levelling](https://github.com/tenth-package0/levelling)** — SwiftUI RPG-style progression experiment.
-
-> Building open-source software for AI, language preservation, privacy, and real-world communities.
-
-<div align="center"><img src="./assets/build-loop.svg" width="100%" alt="Idea to design to build to ship" /></div>
-
-## Toolbox
-       
-<div align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,dart,flutter,supabase,postgres,cloudflare,git&amp;perline=12" alt="Technology toolbox" /></div>
-
-## How I think
-
-```text
-Build for the user. Design for failure. Measure what matters. Keep shipping.
-```
-
-My engineering interests live at the intersection of **product engineering**, **applied AI infrastructure**, **backend reliability**, and software that serves real communities.
-
-<div align="center"><sub>From an idea on a whiteboard to a system running in production.</sub></div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,react,nextjs,swift,flutter,postgres,supabase,aws,cloudflare,git&perline=12" alt="C++, Python, TypeScript, React, Next.js, Swift, Flutter, PostgreSQL, Supabase, AWS, Cloudflare, and Git" />
+  <br /><br />
+  <sub><b>Build for the user · Design for failure · Measure what matters · Keep shipping</b></sub>
+</div>

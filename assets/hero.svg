@@ -1,21 +1,16 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Kebron Tadesse — software engineer</title>
-  <desc id="desc">A quiet, minimal banner with a slow traveling light.</desc>
+  <desc id="desc">Animated banner showing signals moving through a reliable software system.</desc>
   <defs>
-    <linearGradient id="ink" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#101311"/><stop offset="1" stop-color="#171A17"/></linearGradient>
-    <linearGradient id="sheen" x1="0" y1="0" x2="150" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#AEB8AE" stop-opacity="0"/><stop offset=".5" stop-color="#E7E2D8" stop-opacity=".8"/><stop offset="1" stop-color="#AEB8AE" stop-opacity="0"/></linearGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
-    <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset=".48" stop-color="#0B1726"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="accent" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#67E8F9" stop-opacity=".45"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+    <style>@media (prefers-reduced-motion: reduce) { .motion { display:none } } .label { font: 600 13px Inter,ui-sans-serif,system-ui; letter-spacing:3px }</style>
   </defs>
-  <rect width="1200" height="390" rx="24" fill="url(#ink)"/>
-  <path d="M78 78H1122" stroke="#343934"/>
-  <g class="motion" opacity=".72"><rect x="0" y="77" width="150" height="2" rx="1" fill="url(#sheen)"><animate attributeName="x" values="-150;1200" dur="11s" repeatCount="indefinite"/></rect><rect x="0" y="75" width="150" height="6" rx="3" fill="url(#sheen)" opacity=".16" filter="url(#soft)"><animate attributeName="x" values="-150;1200" dur="11s" repeatCount="indefinite"/></rect></g>
-  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,sans-serif">
-    <text x="80" y="142" fill="#8F978F" font-size="15" font-weight="600" letter-spacing="4">SOFTWARE ENGINEER · PRODUCT BUILDER</text>
-    <text x="80" y="226" fill="#F0EDE6" font-size="68" font-weight="720" letter-spacing="-2.5">Kebron Tadesse</text>
-    <text x="82" y="279" fill="#B8BBB4" font-size="23">Thoughtful software, from product idea to production.</text>
-    <text x="82" y="333" fill="#9FAC9F" font-size="14" font-weight="600" letter-spacing="1.7">SAN DIEGO</text><circle cx="210" cy="328" r="2.8" fill="#666C66"/><text x="229" y="333" fill="#ACA69B" font-size="14" font-weight="600" letter-spacing="1.7">CS @ SDSU</text>
-  </g>
-  <g class="motion"><circle r="3" fill="#D8D3C9" opacity=".8"><animateMotion dur="14s" repeatCount="indefinite" path="M958 327 C1000 300 1042 300 1084 327 C1042 354 1000 354 958 327"/></circle></g>
-  <circle cx="1084" cy="327" r="24" stroke="#4B514B"/><circle cx="1084" cy="327" r="3" fill="#9FAC9F"/>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="298" rx="23" stroke="url(#accent)" stroke-opacity=".38"/>
+  <g opacity=".2" stroke="#94A3B8"><path d="M0 70H1200M0 150H1200M0 230H1200"/><path d="M180 0V300M420 0V300M660 0V300M900 0V300"/></g>
+  <g class="motion"><circle r="70" fill="url(#glow)" filter="url(#blur)"><animateMotion dur="10s" repeatCount="indefinite" path="M80 70 C380 20 700 260 1120 90"/></circle><circle r="4" fill="#67E8F9"><animateMotion dur="10s" repeatCount="indefinite" path="M80 70 C380 20 700 260 1120 90"/></circle><circle r="3" fill="#A5B4FC"><animateMotion dur="8s" begin="-4s" repeatCount="indefinite" path="M1120 230 C760 300 500 20 80 210"/></circle></g>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,sans-serif"><text x="74" y="76" fill="#7DD3FC" class="label">SOFTWARE ENGINEER · PRODUCT BUILDER</text><text x="72" y="158" fill="#F8FAFC" font-size="65" font-weight="750" letter-spacing="-2.5">Kebron Tadesse</text><text x="75" y="207" fill="#CBD5E1" font-size="21">Backend reliability · Applied AI · Mobile products</text><g transform="translate(75 248)"><circle cx="6" cy="-5" r="6" fill="#34D399"><animate class="motion" attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle><text x="24" y="0" fill="#94A3B8" font-size="14" font-weight="600" letter-spacing="1.4">SAN DIEGO · CS @ SDSU · BUILDING NOW</text></g></g>
+  <g transform="translate(960 105)" stroke="url(#accent)" fill="none"><circle r="62" opacity=".25"/><circle r="39" opacity=".45"/><circle r="9" fill="#0F172A"/><g class="motion"><circle r="5" fill="#67E8F9"><animateMotion dur="5s" repeatCount="indefinite" path="M0,-62 A62,62 0 1 1 -1,-62"/></circle></g></g>
 </svg>
